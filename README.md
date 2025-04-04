@@ -3,7 +3,7 @@ To use the project as of CL# 103.
 1. Clone the repo
 2. Retarget the solution
 3. Change the build configuration to "Debug Editor
-4. Go to AssetManager.cpp and add "#include <string>"
+4. Go to AssetManager.cpp and add include the string header file
 5. Build
 6. Click the play button
 7. Four windows will appear in front of each other. Move each window to reveal the others.
